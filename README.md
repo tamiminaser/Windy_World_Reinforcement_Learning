@@ -2,7 +2,6 @@
 > An Example of Reinforcement Learning for 
 > Making Decision Under Uncertainty
 
-------
 
 ![](windy_world.png)
 
