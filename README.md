@@ -1,9 +1,11 @@
 # Windy World
 > An Example of Reinforcement Learning for 
 > Making Decision Under Uncertainty
-======
+
+------
 
 ![](windy_world.png)
+
 
 Windy World is a classic problem for many reinforcement learning and dynamic programming methods. The idea is that an agent is moving in a grid world (7x10 in this example). There   are a starting cell, target (or home) cell and a few failing cells (lakes). The agent starts from the starting cell and must find its way to the home cell. In a calm world (no wind), the agent using a simple RL algorithm (in this case SARSA algorithm) can find its optimum way. 
 
